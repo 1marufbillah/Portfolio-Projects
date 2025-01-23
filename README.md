@@ -7,3 +7,7 @@ Here are  my works
 ## writing_ai.py
 
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/0a205084-ef61-4318-80fc-7a80d4360ed5" />
+
+## rag.py
+
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/ae2e6161-73ac-4cc8-be70-7d08bb89c603" />
