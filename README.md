@@ -3,7 +3,7 @@ Here are  my works
 
 ## DeepSeekRAG.py
 
-![Image](https://github.com/user-attachments/assets/83b20d53-9b20-4af9-837c-058bdc960643)
+![Image](https://github.com/user-attachments/assets/d7c5bc2c-22c9-46c7-b7fd-44a8a68a4149)
 
 ## rag.py
 
