@@ -1,7 +1,7 @@
 # Portfolio-Projects
 Here are  my works
 
-## DeepSeekRAG.py
+## DeepSeekRAG.py [https://www.linkedin.com/feed/update/urn:li:activity:7288752444694544386/]
 
 ![Image](https://github.com/user-attachments/assets/d7c5bc2c-22c9-46c7-b7fd-44a8a68a4149)
 
